@@ -1,0 +1,4 @@
+.cardGroup{
+    display:flex;
+    flex-direction:row
+}
